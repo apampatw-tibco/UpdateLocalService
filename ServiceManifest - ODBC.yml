@@ -1,0 +1,11 @@
+ServiceName: Scribe Online Agent 3
+PackageSolutionPaths: 
+    - C:\Work\Connector\scribe-ado-library\build.sln
+Workflow: 
+    1:
+        PackageName: Scribe.Ado.Library
+        ProjectPath: C:\Work\Connector\scribe-scodbc\src\Scribe.Connector.Ado.Odbc\Scribe.Connector.Ado.Odbc.csproj
+        PackageVersion: 0.1.0-alpha.212
+SolutionPath: C:\Work\Connector\scribe-scodbc\Scribe.Connector.Ado.Odbc.sln
+SourceDirectory: C:\Work\Connector\scribe-scodbc\src\Scribe.Connector.Ado.Odbc\bin\Debug\net472
+TargetDirectory: C:\Program Files (x86)\Scribe Software\TIBCO Scribe® Online Agent 3\Connectors\Scribe.Connector.Ado.Odbc

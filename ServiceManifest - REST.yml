@@ -1,0 +1,11 @@
+ServiceName: Scribe Online Agent 3
+PackageSolutionPaths: 
+    - C:\Work\Connector\scribe-jsonservices-library\build.sln
+Workflow: 
+    1:
+        PackageName: Scribe.JsonServices
+        ProjectPath: C:\Work\Connector\scribe-screst\src\Scribe.Connector.REST\Scribe.Connector.REST.csproj
+        PackageVersion: 2.2.0
+SolutionPath: C:\Work\Connector\scribe-screst\Scribe.Connector.REST.sln
+SourceDirectory: C:\Work\Connector\scribe-screst\src\Scribe.Connector.REST\bin\Debug\net472
+TargetDirectory: C:\Program Files (x86)\Scribe Software\TIBCO Scribe® Online Agent 3\Connectors\Scribe.Connector.REST

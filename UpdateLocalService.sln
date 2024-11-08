@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UpdateLocalService", "UpdateLocalService\UpdateLocalService.fsproj", "{0859C194-AA82-43BC-8C53-856F432354BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0859C194-AA82-43BC-8C53-856F432354BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0859C194-AA82-43BC-8C53-856F432354BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0859C194-AA82-43BC-8C53-856F432354BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0859C194-AA82-43BC-8C53-856F432354BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E496E4-79A0-4DBF-8840-5A54D6D4EF3D}
+	EndGlobalSection
+EndGlobal

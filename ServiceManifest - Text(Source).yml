@@ -1,0 +1,15 @@
+ServiceName: Scribe Online Agent 3
+PackageSolutionPaths: 
+    - C:\Work\Connector\scribe-text-library\Code\Scribe.Connector.Text.sln
+Workflow: 
+    1:
+        PackageName: Scribe.Connector.Text
+        ProjectPath: C:\Work\Connector\scribe-sctxts\Code\Scribe.Connector.Text.Source\Scribe.Connector.Text.Source.csproj
+        PackageVersion: 2.2.4
+    2:
+        PackageName: Scribe.Connector.Text
+        ProjectPath: C:\Work\Connector\scribe-sctxts\Code\Scribe.Connector.Text.Source\Scribe.Connector.Text.Source.Test.csproj
+        PackageVersion: 2.2.4
+SolutionPath: C:\Work\Connector\scribe-sctxts\Code\Scribe.Connector.Text.Source.sln
+SourceDirectory: C:\Work\Connector\scribe-sctxts\Code\Scribe.Connector.Text.Source\bin\Debug
+TargetDirectory: C:\Program Files (x86)\Scribe Software\TIBCO Scribe® Online Agent 3\Connectors\Scribe.Connector.Text.Source
